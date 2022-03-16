@@ -1,2 +1,2 @@
 # pennant-java
-java学习笔记和代码
+算法学习笔记
